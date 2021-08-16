@@ -35,7 +35,7 @@
     "preact-cli": "^3.0.5",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-prettier": "^3.4.0",
-    "husky": "^4.2.1",
+    "husky": "^7.0.1",
     "prettier": "^2.1.2",
     "sass-loader": "^10.1.1",
     "sirv-cli": "^1.0.6",
