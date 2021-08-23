@@ -24,7 +24,7 @@
     "*.{js,jsx,ts,tsx}": "eslint --fix"
   },
   "devDependencies": {
-    "@types/react": "^16.9.49",
+    "@types/react": "^17.0.19",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
     "@typescript-eslint/parser": "^2.34.0",
     "css-loader": "^5.2.4",
